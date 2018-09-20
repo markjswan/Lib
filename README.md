@@ -7,9 +7,9 @@ A collective list of books, videos and courses for general interest.
 
 ### Podcasts
 #### Education
-Name | Channel | Description | Review | Top Episodes
-|---|---|---|---|---|
-| [Sam Harris](https://samharris.org/podcast/) | Waking Up | Mixture of Philosophy, Science and Self-Help | Episode 71 - BLA |
+Name | Channel | Description | Top Episodes
+|---|---|---|---|
+| [Sam Harris](https://samharris.org/podcast/) | Waking Up | Mixture of Philosophy, Science and Self-Help | <ul><li>item1</li><li>item2</li></ul> |
 
 #### General
 
