@@ -7,6 +7,8 @@ A collective list of books, videos and courses for general interest.
 
 ### Podcasts
 #### Business
+Name | Channel | Top Episodes
+|---|---|---|
 | [Acquired](http://www.acquired.fm/) | Ben Gilbert | <ul><li>[The Sonos IPO](http://www.acquired.fm/episodes/2018/8/20/season-3-episode-3the-sonos-ipo)</li></ul> |
 | [FT Alphachat](https://ftalphaville.ft.com/series/Alphachat) | Financial Times | <ul><li>[Tim Harford](https://ftalphaville.ft.com/2016/10/07/2176678/alphachat-tim-harford-on-the-unheralded-virtue-of-messiness/)</li></ul><ul><li>[Michael Mauboussin](https://www.ft.com/content/208c342e-07b3-4025-aaac-7fc4f7b046b0)</li></ul> |
 
