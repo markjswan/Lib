@@ -6,6 +6,11 @@ A collective list of books, videos and courses for general interest.
 * [Podcasts](#animals)
 
 ### Podcasts
+#### Business
+| [Acquired](http://www.acquired.fm/) | Ben Gilbert | <ul><li>[The Sonos IPO](http://www.acquired.fm/episodes/2018/8/20/season-3-episode-3the-sonos-ipo)</li></ul> |
+| [FT Alphachat](https://ftalphaville.ft.com/series/Alphachat) | Financial Times | <ul><li>[Tim Harford](https://ftalphaville.ft.com/2016/10/07/2176678/alphachat-tim-harford-on-the-unheralded-virtue-of-messiness/)</li></ul><ul><li>[Michael Mauboussin](https://www.ft.com/content/208c342e-07b3-4025-aaac-7fc4f7b046b0)</li></ul> |
+
+
 #### General
 Name | Channel | Top Episodes
 |---|---|---|
@@ -18,8 +23,6 @@ Name | Channel | Top Episodes
 | [Joe Rogan](https://www.joerogan.com/) | Joe Rogan | <ul><li>[Elon Musk](https://www.youtube.com/watch?v=ycPr5-27vSI)</li></ul> |
 | [Tim Ferris Show](https://tim.blog/) | Tim Ferris | <ul><li>[Ray Dalio](https://tim.blog/2017/09/13/ray-dalio/)</li><li>[Morning Routines and Strategies](https://tim.blog/2017/07/19/morning-routines-and-strategies/)</li></ul> |
 | [Waking Up](https://samharris.org/podcast/) | Sam Harris | <ul><li>[What is technology doing to us?](https://samharris.org/podcasts/what-is-technology-doing-to-us/)</li><li>[Living with Robots](https://samharris.org/podcasts/living-with-robots/)</li></ul> |
-
-#### General
 
 
 ### Anime
