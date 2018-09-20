@@ -11,7 +11,8 @@ Name | Channel | Top Episodes
 |---|---|---|
 | [Acquired](http://www.acquired.fm/) | Ben Gilbert | <ul><li>[The Sonos IPO](http://www.acquired.fm/episodes/2018/8/20/season-3-episode-3the-sonos-ipo)</li></ul> |
 | [FT Alphachat](https://ftalphaville.ft.com/series/Alphachat) | Financial Times | <ul><li>[Tim Harford](https://ftalphaville.ft.com/2016/10/07/2176678/alphachat-tim-harford-on-the-unheralded-virtue-of-messiness/)</li></ul><ul><li>[Michael Mauboussin](https://www.ft.com/content/208c342e-07b3-4025-aaac-7fc4f7b046b0)</li></ul> |
-
+| [FinTech Insider](https://11fs.com/insights/fintech-insider/) | 11:FS | <ul><li>[Challenging the Banking Battlefield](https://fi.11fs.com/403)</li></ul>
+| [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this?t=1537479329081) | NPR | <ul><li>[Dyson: James Dyson](https://www.npr.org/2018/03/26/584331881/dyson-james-dyson)</li></ul><ul><li>[Patagonia: Yvon Chouinard](https://www.npr.org/2018/02/06/572558864/patagonia-yvon-chouinard)</li></ul><ul><li>[Instagram: Kevin Systrom](https://www.npr.org/2018/01/02/562887933/instagram-kevin-systrom-mike-krieger)</li></ul><ul><li>[Bumble: Whitney Wolfe](https://www.npr.org/2017/11/29/557437086/bumble-whitney-wolfe)</li></ul><ul><li>[Airbnb: Joe Gebbia](https://www.npr.org/2017/10/19/543035808/airbnb-joe-gebbia)</li></ul> |
 
 #### General
 Name | Channel | Top Episodes
