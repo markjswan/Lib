@@ -5,8 +5,8 @@ A collective list of books, videos and courses for general interest.
 
 * [Podcasts](#animals)
 
-### Podcasts
-#### Business
+## Podcasts
+### Business
 Name | Channel | Top Episodes
 |---|---|---|
 | [Acquired](http://www.acquired.fm/) | Ben Gilbert | <ul><li>[The Sonos IPO](http://www.acquired.fm/episodes/2018/8/20/season-3-episode-3the-sonos-ipo)</li></ul> |
@@ -15,7 +15,7 @@ Name | Channel | Top Episodes
 | [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this?t=1537479329081) | NPR | <ul><li>[Dyson: James Dyson](https://www.npr.org/2018/03/26/584331881/dyson-james-dyson)</li></ul><ul><li>[Patagonia: Yvon Chouinard](https://www.npr.org/2018/02/06/572558864/patagonia-yvon-chouinard)</li></ul><ul><li>[Instagram: Kevin Systrom](https://www.npr.org/2018/01/02/562887933/instagram-kevin-systrom-mike-krieger)</li></ul><ul><li>[Bumble: Whitney Wolfe](https://www.npr.org/2017/11/29/557437086/bumble-whitney-wolfe)</li></ul><ul><li>[Airbnb: Joe Gebbia](https://www.npr.org/2017/10/19/543035808/airbnb-joe-gebbia)</li></ul> |
 | [Masters of Scale](https://mastersofscale.com/) | Reid Hoffman | <ul><li>[Spotify: Daniel Ek](https://mastersofscale.com/#/daniel-ek-how-to-build-trust-fast)</li></ul><ul><li>[Netlfix: Reed Hastings](https://mastersofscale.com/reed-hastings-culture-shock/)</li></ul><ul><li>[Instagram: Kevin Systrom](https://www.stitcher.com/podcast/stitcher/masters-of-scale/e/56127707)</li></ul><ul><li>[Google: Eric Schmidt](https://mastersofscale.com/#/innovation-managed-chaos/)</li></ul><ul><li>[Facebook: Mark Zuckerberg](https://mastersofscale.com/#/mark-zuckerberg-imperfect-is-perfect/)</li></ul> |
 
-#### General
+### General
 Name | Channel | Top Episodes
 |---|---|---|
 | [Anatomy of Next](https://foundersfund.com/anatomy-of-next/) | Founders Fund | <ul><li>[Genetically Modified Everything](https://soundcloud.com/anatomyofnext/church)</li></ul> |
