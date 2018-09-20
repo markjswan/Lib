@@ -7,7 +7,7 @@ A collective list of books, videos and courses for general computer science
 
 ### Bayesian Books
 Book | Description |
-|---|---|---|
+|---|---|
 | [Bayesian Data Analysis](https://www.amazon.co.uk/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/ref=sr_1_1?ie=UTF8&qid=1537474570&sr=8-1&keywords=bayesian+data+analysis) | Classic Introduction to Data Analysis |
 
 ### Anime
