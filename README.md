@@ -9,7 +9,7 @@ A collective list of books, videos and courses for general interest.
 #### Education
 Name | Channel | Description | Top Episodes
 |---|---|---|---|
-| [Sam Harris](https://samharris.org/podcast/) | Waking Up | Mixture of Philosophy, Science and Self-Help | <ul><li>item1</li><li>item2</li></ul> |
+| [Sam Harris](https://samharris.org/podcast/) | Waking Up | Mixture of Philosophy, Science and Self-Help | <ul><li>[#71 What is technology doing to us?](https://samharris.org/podcasts/what-is-technology-doing-to-us/)</li><li>[#66 Living with Robots](https://samharris.org/podcasts/living-with-robots/)</li></ul> |
 
 #### General
 
