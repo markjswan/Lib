@@ -10,6 +10,7 @@ A collective list of books, videos and courses for general interest.
 Name | Channel | Top Episodes
 |---|---|---|
 | [Anatomy of Next](https://foundersfund.com/anatomy-of-next/) | Founders Fund | <ul><li>[Genetically Modified Everything](https://soundcloud.com/anatomyofnext/church)</li></ul> |
+| [Caliphate](https://www.nytimes.com/interactive/2018/podcasts/caliphate-isis-rukmini-callimachi.html) | NY Times | Watch in order - Total 10 episodes  |
 | [Desert Island Discs](https://www.bbc.co.uk/programmes/b006qnmr) | BBC | <ul><li>[Nigel Owens](https://www.bbc.co.uk/programmes/b08cr6w9)</li></ul><ul><li>[Sheryl Sandberg](https://www.bbc.co.uk/programmes/b08z9b81)</li></ul><ul><li>[Demis Hassabis](https://www.bbc.co.uk/programmes/b08qy1sl)</li></ul> |
 | [On Being](https://onbeing.org/) | Krista Tippet | <ul><li>[Alain de Botton - Love and Relationships](https://onbeing.org/programs/alain-de-botton-the-true-hard-work-of-love-and-relationships-aug2018/)</li></ul> |
 | [RadioLab](https://www.wnycstudios.org/shows/radiolab/podcasts) | WNYC | <ul><li>[AlphaGal](https://www.wnycstudios.org/story/alpha-gal/)</li></ul><ul><li>[Playing God](https://www.wnycstudios.org/story/playing-god/)</li></ul><ul><li>[Truth Trolls](https://www.youtube.com/watch?v=ttjX3e1qo-s)</li></ul> |
