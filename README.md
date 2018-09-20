@@ -9,8 +9,8 @@ A collective list of books, videos and courses for general interest.
 #### General
 Name | Channel | Description | Top Episodes
 |---|---|---|---|
-| [Anatomy of Next](https://foundersfund.com/anatomy-of-next/) | Founders Fund | VC podcast, breakthrough topics | <ul><li>[#3 - Genetically Modified Everything](https://soundcloud.com/anatomyofnext/church)</li></ul>|
-| [Waking Up](https://samharris.org/podcast/) | Sam Harris | Philosophy, Science and Self-Help | <ul><li>[#71 - What is technology doing to us?](https://samharris.org/podcasts/what-is-technology-doing-to-us/)</li><li>[#66 - Living with Robots](https://samharris.org/podcasts/living-with-robots/)</li></ul> |
+| [Anatomy of Next](https://foundersfund.com/anatomy-of-next/) | Founders Fund | Cutting edge topics| <ul><li>[#3 - Genetically Modified Everything](https://soundcloud.com/anatomyofnext/church)</li></ul>|
+| [Waking Up](https://samharris.org/podcast/) | Sam Harris | Philosophy, science and self-Help | <ul><li>[#71 - What is technology doing to us?](https://samharris.org/podcasts/what-is-technology-doing-to-us/)</li><li>[#66 - Living with Robots](https://samharris.org/podcasts/living-with-robots/)</li></ul> |
 
 #### General
 
