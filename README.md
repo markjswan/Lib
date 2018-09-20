@@ -1,14 +1,18 @@
-# Lib
-A collective list of books, videos and courses for general computer science
+# Library
+A collective list of books, videos and courses for general interest.
 
 ## Index
 
-* [Animals](#animals)
+* [Podcasts](#animals)
 
-### Bayesian Books
-Book | Description |
-|---|---|
-| [Bayesian Data Analysis](https://www.amazon.co.uk/Bayesian-Analysis-Chapman-Statistical-Science/dp/1439840954/ref=sr_1_1?ie=UTF8&qid=1537474570&sr=8-1&keywords=bayesian+data+analysis) | Classic Introduction to Data Analysis |
+### Podcasts
+#### Education
+Name | Channel | Description | Review | Top Episodes
+|---|---|---|---|---|
+| [Sam Harris](https://samharris.org/podcast/) | Waking Up | Mixture of Philosophy, Science and Self-Help | Episode 71 - BLA |
+
+#### General
+
 
 ### Anime
 API | Description | Auth | HTTPS | CORS |
