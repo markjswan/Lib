@@ -8,6 +8,41 @@ A collective list of books, videos and courses for general interest.
 
 ## Books
 
+### Business
+Name | Channel | Top Episodes
+|---|---|---|
+| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+
+### Computer Science
+Name | Channel | Top Episodes
+|---|---|---|
+| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+
+### Economics
+Name | Channel | Top Episodes
+|---|---|---|
+| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+
+### Fiction
+Name | Channel | Top Episodes
+|---|---|---|
+| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+
+### Philosophy
+Name | Channel | Top Episodes
+|---|---|---|
+| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+
+### Politics
+Name | Channel | Top Episodes
+|---|---|---|
+| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+
+### Self-Help
+Name | Channel | Top Episodes
+|---|---|---|
+| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+
 ## Podcasts
 ### General
 Name | Channel | Top Episodes
