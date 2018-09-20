@@ -9,39 +9,39 @@ A collective list of books, videos and courses for general interest.
 ## Books
 
 ### Business
-Name | Channel | Top Episodes
+Title | Author | Description
 |---|---|---|
-| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+| Ulysses | James Joyce | Dissertation book |
 
 ### Computer Science
-Name | Channel | Top Episodes
+Title | Author | Description
 |---|---|---|
-| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+| Ulysses | James Joyce | Dissertation book |
 
 ### Economics
-Name | Channel | Top Episodes
+Title | Author | Description
 |---|---|---|
-| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+| Ulysses | James Joyce | Dissertation book |
 
 ### Fiction
-Name | Channel | Top Episodes
+Title | Author | Description
 |---|---|---|
-| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+| Ulysses | James Joyce | Dissertation book |
 
 ### Philosophy
-Name | Channel | Top Episodes
+Title | Author | Description
 |---|---|---|
-| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+| Ulysses | James Joyce | Dissertation book |
 
 ### Politics
-Name | Channel | Top Episodes
+Title | Author | Description
 |---|---|---|
-| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+| Ulysses | James Joyce | Dissertation book |
 
 ### Self-Help
-Name | Channel | Top Episodes
+Title | Author | Description
 |---|---|---|
-| [Anatomy of Next] | Founders Fund | <ul><li>[Genetically Modified Everything]</li></ul> |
+| Ulysses | James Joyce | Dissertation book |
 
 ## Podcasts
 ### General
