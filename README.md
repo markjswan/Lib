@@ -1,50 +1,11 @@
 # Library
+
 A collective list of books, videos and courses for general interest.
 
-## Index
-
-* [Books](#books)
-* [Podcasts](#podcasts)
-
-## Books
-
-### Business
-Title | Author | Description
-|---|---|---|
-| Ulysses | James Joyce | Dissertation book |
-
-### Computer Science
-Title | Author | Description
-|---|---|---|
-| Ulysses | James Joyce | Dissertation book |
-
-### Economics
-Title | Author | Description
-|---|---|---|
-| Ulysses | James Joyce | Dissertation book |
-
-### Fiction
-Title | Author | Description
-|---|---|---|
-| Ulysses | James Joyce | Dissertation book |
-
-### Philosophy
-Title | Author | Description
-|---|---|---|
-| Ulysses | James Joyce | Dissertation book |
-
-### Politics
-Title | Author | Description
-|---|---|---|
-| Ulysses | James Joyce | Dissertation book |
-
-### Self-Help
-Title | Author | Description
-|---|---|---|
-| Ulysses | James Joyce | Dissertation book |
-
 ## Podcasts
+
 ### General
+
 Name | Channel | Top Episodes
 |---|---|---|
 | [Anatomy of Next](https://foundersfund.com/anatomy-of-next/) | Founders Fund | <ul><li>[Genetically Modified Everything](https://soundcloud.com/anatomyofnext/church)</li></ul> |
