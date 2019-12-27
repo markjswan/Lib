@@ -18,6 +18,12 @@ Name | Channel | Top Episodes
 | [Tim Ferris Show](https://tim.blog/) | Tim Ferris | <ul><li>[Ray Dalio](https://tim.blog/2017/09/13/ray-dalio/)</li><li>[Morning Routines and Strategies](https://tim.blog/2017/07/19/morning-routines-and-strategies/)</li></ul> |
 | [Waking Up](https://samharris.org/podcast/) | Sam Harris | <ul><li>[What is technology doing to us?](https://samharris.org/podcasts/what-is-technology-doing-to-us/)</li><li>[Living with Robots](https://samharris.org/podcasts/living-with-robots/)</li></ul> |
 
+### General
+
+Name | Channel | Top Episodes
+|---|---|---|
+| [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this?t=1537479329081) | NPR | <ul><li>[Dyson: James Dyson](https://www.npr.org/2018/03/26/584331881/dyson-james-dyson)</li></ul><ul><li>[Patagonia: Yvon Chouinard](https://www.npr.org/2018/02/06/572558864/patagonia-yvon-chouinard)</li></ul><ul><li>[Instagram: Kevin Systrom](https://www.npr.org/2018/01/02/562887933/instagram-kevin-systrom-mike-krieger)</li></ul><ul><li>[Bumble: Whitney Wolfe](https://www.npr.org/2017/11/29/557437086/bumble-whitney-wolfe)</li></ul><ul><li>[Airbnb: Joe Gebbia](https://www.npr.org/2017/10/19/543035808/airbnb-joe-gebbia)</li></ul>
+
 ### Business
 Name | Channel | Top Episodes
 |---|---|---|
