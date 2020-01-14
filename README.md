@@ -4,8 +4,8 @@ A collective list of books, videos and courses for general interest.
 
 ## Articles / Papers
 ### Politics and Philosophy
-* **["The Law of Group Polarization" - Cass Sunstein (1999)]**(https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1541&context=law_and_economics): Describes the causes of group polarization and explains the need for diverse views in group discussion. Links to political party radicalisation and the dangers of monolithic software engineering teams.
-* **["The Twitter Electorate Isn't the Real Electorate" - The Atlantic (2019)]**(https://www.theatlantic.com/international/archive/2020/01/jeremy-corbyn-labour-twitter-primary/604690/): Article describing that social media is distorting our sense of mainstream opinion.
+* [The Law of Group Polarization" - Cass Sunstein (1999)](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1541&context=law_and_economics): Describes the causes of group polarization and explains the need for diverse views in group discussion. Links to political party radicalisation and the dangers of monolithic software engineering teams.
+* [The Twitter Electorate Isn't the Real Electorate - The Atlantic (2019)](https://www.theatlantic.com/international/archive/2020/01/jeremy-corbyn-labour-twitter-primary/604690/): Article describing that social media is distorting our sense of mainstream opinion.
 
 ## Podcasts
 
