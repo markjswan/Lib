@@ -4,7 +4,8 @@ A collective list of books, videos and courses for general interest.
 
 ## Articles / Papers
 ### Politics and Philosophy
-*The Law of Group Polarization* https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1541&context=law_and_economics
+* **The Law of Group Polarization**: https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1541&context=law_and_economics
+
 About: Paper describing the causes of group polarization and explains the need for diverse views in group discussion.
 
 ## Podcasts
